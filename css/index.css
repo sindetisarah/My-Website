@@ -64,3 +64,6 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.call{
+    background-image: url("../images/photo-1557683304-673a23048d34.jpeg");
+}
