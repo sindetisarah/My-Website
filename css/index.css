@@ -1,0 +1,66 @@
+/* styling the jumbotron */
+.jumbotron{
+    background-color: darkmagenta;
+    width:auto;
+    border-radius: 10px;
+}
+#logo{
+    height: 120px;
+    width:400px;
+    padding-left: 80px;
+}
+#name{
+    color:white;
+    font-size:18px;
+    font-weight: bolder;
+}
+
+#mypic{
+    width: 270px;
+    height:330px;
+    border-radius:20%;
+    
+    
+    
+   
+}
+.card{
+    
+    background-color: whitesmoke;
+}
+.card1{
+    margin-top: 10px;
+    margin-left:85px;
+    padding-left: 100px;
+    background-color: whitesmoke
+    
+
+}
+.card2{
+    margin-left:40px ;
+    margin-top: 10px;
+    
+}
+.button{
+    background-color:darkmagenta;
+    border-radius: 20px;
+   padding-right:0px;
+   padding-left:10px;
+   background-size:auto;
+   margin-right: 240px;
+   text-align: center;
+  
+}
+#link{
+    color:white;
+
+}
+.button a{
+    color: white;
+    text-decoration: none;
+}
+body{
+    background-image: url("../images/background2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

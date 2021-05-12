@@ -1,0 +1,125 @@
+/*styling landing*/
+.landing {
+    background-image: url("../images/background2.jpeg");
+    padding: 200px;
+    color: floralwhite;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-bottom: 2px dotted mediumpurple;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+.navbar{
+    padding-top: 30px;
+    padding-left: 50%;
+    color:white;
+    background-color: purple;
+}.navbar a{
+    color:white;
+    text-decoration: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color:white;
+}
+nav ul li a:hover{
+    color:white;
+    background-color: white;
+    /* border: 1px solid silver; */
+    text-decoration: none;
+}
+ul li{
+    display: inline;
+    padding-left: 40px;                                                             
+    text-align: right;
+    font-size: 18px;
+}
+#me{
+    text-align: center;
+}
+hr{
+    height:2px;
+    background: purple;
+}
+
+#mypic{
+    border-radius: 50%;
+    width: 200px;
+    height:200px
+}
+#Maasai{
+    border-radius: 25px;
+}
+.card2{
+    border-color: maroon;
+}
+.card1{
+    border-color: mediumspringgreen;
+}
+#tom{
+    border-radius: 25%;
+}
+#home{
+    background-size: cover;
+    width: 10000px;;
+}
+html {
+    scroll-behavior: smooth;
+  }
+  #contacts{
+      background-image: url("../images/background2.jpeg");
+  }
+  h4{
+      color:purple
+  }
+  .button{
+    background-color:darkmagenta;
+    border-radius: 20px;
+   padding-right:0px;
+   padding-left:0px;
+   background-size:auto;
+   margin-right: 260px;
+   margin-left: 160px;
+   text-align: center;
+  
+}
+.button a{
+    color: white;
+    text-decoration: none;
+}
+.navbar a:hover {
+    background-color: slateblue;
+  }
+  #darts,#music,#book,#piano{
+      width: 200px;
+      height:200px;
+  }
+  .card{
+    border-color: goldenrod ;
+    border-width: 1.2px;
+    border-top-color:purple;
+    border-bottom-color:purple;
+    border-bottom-width: 5px;
+    height: 300px;
+    
+    
+  }
+  #rob{
+      width:500px;
+      height: 400px;
+  }
+  #friends{
+      border-radius: 10%;
+  }
+  li{
+      color:purple;
+      font-weight: bolder;
+  }
+  #author{
+      width:400px;
+      height:300px;
+      border-radius: 10px;
+  }
+ 
