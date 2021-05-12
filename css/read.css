@@ -1,0 +1,36 @@
+#moipei{
+    border-radius: 50%;
+    width:400px;
+    height:400px;
+}
+ #beat,#hard{
+    width:400px;
+    height:300px;
+    border-radius: 10px;
+}
+.navbar{
+    padding-top: 30px;
+    padding-left: 50%;
+    color:white;
+    background-color: purple;
+}.navbar a{
+    color:white;
+    text-decoration: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color:white;
+}
+nav ul li a:hover{
+    color:white;
+    background-color: white;
+    /* border: 1px solid silver; */
+    text-decoration: none;
+}
+ul li{
+    display: inline;
+    padding-left: 40px;                                                             
+    text-align: right;
+    font-size: 18px;
+}
