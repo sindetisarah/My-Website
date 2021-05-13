@@ -67,7 +67,7 @@ body{
 .call{
     background-image: url("../images/photo-1557683304-673a23048d34.jpeg");
 }
-#info,#more#title{
+#info,#more,#title{
     color:white;
 }
 
